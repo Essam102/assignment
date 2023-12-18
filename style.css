@@ -1,0 +1,19 @@
+.bold-h
+{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bolder;
+}
+.bold-p
+{
+    font-size: 35px;
+}
+.bold-but
+{
+    width: 250px;
+    height: 80px;
+}
+.bold-but:hover{
+    background-color: green;
+    
+}
